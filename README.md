@@ -19,12 +19,12 @@ Aplicación de escritorio desarrollada en Python utilizando Tkinter, Permite al 
 
 ## Cómo ejecutar el proyecto
 
-  1. Clonar el repositorio
-  2. Instalar dependencias:
-
-  pip install openpyxl
-
+  1. Clonar el repositorio o descargar el repositorio
+  2. Instalar extension:
+    * pip install openpyxl
   3. Ejecutar el archivo principal:
+     
+   python "Formulario_tkinter".py
 
-   python "nombre_del_archivo".py
-
+## como deberia lucir el formulario
+<img width="352" height="314" alt="image" src="https://github.com/user-attachments/assets/2bcd60ff-328b-45d1-be58-a81812b3b430" />
